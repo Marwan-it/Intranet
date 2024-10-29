@@ -30,4 +30,4 @@ Use Cases: It provides examples of how different organizations implement intrane
 This resource is beneficial for employees seeking to understand the purpose and functionalities of an intranet in a straightforward manner.
 
 
-{Reference} (https://www.techtarget.com/whatis/definition/intranet) 
+[Reference] (https://www.techtarget.com/whatis/definition/intranet) 
