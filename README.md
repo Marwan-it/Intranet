@@ -1,6 +1,6 @@
-#Intranet
+# Intranet
 
-##What is an Intranet?
+## What is an Intranet?
 
 An intranet is like a private internet for a specific group of people, usually within an organization. Think of it as a secure space where employees can share information, communicate,
 and collaborate without anyone from outside the organization being able to access it.
