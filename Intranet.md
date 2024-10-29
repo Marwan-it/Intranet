@@ -1,8 +1,4 @@
-Reference 
-https://www.techtarget.com/whatis/definition/intranet 
-
-
-What is an Intranet?
+#What is an Intranet?
 
 An intranet is like a private internet for a specific group of people, usually within an organization. Think of it as a secure space where employees can share information, communicate,
 and collaborate without anyone from outside the organization being able to access it.
@@ -30,3 +26,7 @@ Features: The article describes common features found in intranets, such as mess
 Use Cases: It provides examples of how different organizations implement intranets to improve workflow and foster a stronger company culture.
 
 This resource is beneficial for employees seeking to understand the purpose and functionalities of an intranet in a straightforward manner.
+
+
+Reference 
+https://www.techtarget.com/whatis/definition/intranet 
