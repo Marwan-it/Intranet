@@ -19,15 +19,15 @@ and collaborate without anyone from outside the organization being able to acces
 ## Summary
 This article provides a clear and accessible overview of what an intranet is and why organizations use it. Here are the key points covered:
 
-Definition: The article explains that an intranet is a private network accessible only to an organization's staff. It serves as a secure environment for sharing information.
+  - Definition: The article explains that an intranet is a private network accessible only to an organization's staff. It serves as a secure environment for sharing information.
 
-Benefits: It highlights several advantages of using an intranet, including improved communication, enhanced collaboration, and the ability to centralize important resources and documents.
+  - Benefits: It highlights several advantages of using an intranet, including improved communication, enhanced collaboration, and the ability to centralize important resources and documents.
 
-Features: The article describes common features found in intranets, such as messaging systems, file sharing capabilities, and news feeds, which help keep employees connected and informed.
+  - Features: The article describes common features found in intranets, such as messaging systems, file sharing capabilities, and news feeds, which help keep employees connected and informed.
 
-Use Cases: It provides examples of how different organizations implement intranets to improve workflow and foster a stronger company culture.
+  - Use Cases: It provides examples of how different organizations implement intranets to improve workflow and foster a stronger company culture.
 
-This resource is beneficial for employees seeking to understand the purpose and functionalities of an intranet in a straightforward manner.
+This resource is `beneficial`  for employees seeking to understand the purpose and functionalities of an intranet in a straightforward manner.
 
 
 [Reference](https://www.techtarget.com/whatis/definition/intranet) 
