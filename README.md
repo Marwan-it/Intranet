@@ -1,11 +1,11 @@
 # Intranet
 
-# # What is an Intranet?
+## What is an Intranet?
 
 An intranet is like a private internet for a specific group of people, usually within an organization. Think of it as a secure space where employees can share information, communicate,
 and collaborate without anyone from outside the organization being able to access it.
 
-##How are intranets used?
+## How are intranets used?
 
 + Private Network: Unlike the public internet, which anyone can access, an intranet is closed off to outsiders. Only people within the organization can use it.
 
@@ -16,7 +16,7 @@ and collaborate without anyone from outside the organization being able to acces
 + Resource Access: An intranet often contains useful resources like company policies, training materials, and forms, making it easier for employees to find what they need.
 
 
-Summary
+## Summary
 This article provides a clear and accessible overview of what an intranet is and why organizations use it. Here are the key points covered:
 
 Definition: The article explains that an intranet is a private network accessible only to an organization's staff. It serves as a secure environment for sharing information.
